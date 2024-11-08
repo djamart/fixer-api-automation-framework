@@ -32,8 +32,8 @@ This framework automates tests for the Fixer API, verifying various response cod
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-repository-name
-cd your-repository-name
+git clone https://github.com/djamart/fixer-api-automation-framework.git
+cd fixer-api-automation-framework
 npm install
 ```
 
