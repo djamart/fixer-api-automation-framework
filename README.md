@@ -125,4 +125,4 @@ npm test
 
 ## Additional Notes
 
-- **Configuration:** Update the constants.ts file to configure the base API URL or other relevant settings.
+- **Configuration:** Update the `constants.ts` file to configure the base API URL or other relevant settings.
